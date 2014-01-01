@@ -1,0 +1,10 @@
+- dir: .
+  url: git@github.com:AndreaCensi/env_master_reprep.git
+
+- dir: src/contracts
+  url: git@github.com:AndreaCensi/contracts.git
+  branch: master
+
+- dir: src/reprep
+  url: git@github.com:AndreaCensi/reprep.git
+  branch: master
